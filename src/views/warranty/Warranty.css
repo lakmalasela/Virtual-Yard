@@ -1,0 +1,17 @@
+.warranty-a{
+    padding-top: 20vh;
+    padding-bottom: 10vh;
+}
+.warranty-b{
+    text-align: center;
+}
+.warranty-c{
+    padding-bottom: 40px;
+}
+
+
+@media screen and (max-width: 450px) {
+    .warranty-block{
+        height: 64vh !important;
+    }
+}

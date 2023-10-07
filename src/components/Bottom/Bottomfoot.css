@@ -1,0 +1,34 @@
+.link-a{
+    padding-top: 10px;
+}
+.link-b{
+text-align: center;
+}
+
+.social{
+    text-decoration:'none' !important;
+    color: aliceblue;
+    font-family: Montserrat, sans-serif;
+}
+.social a{
+    text-decoration: none;
+    color: aliceblue;
+    font-family: Montserrat, sans-serif;
+}
+
+.foot-icon{
+    text-align: right;
+}
+.foot-icon h3{
+    padding-right: 150px;
+}
+.foot-link{
+    text-align: center;
+}
+
+@media screen and (max-width: 450px) {
+    .foot-link{
+        padding-right: 10px;
+    }
+}
+

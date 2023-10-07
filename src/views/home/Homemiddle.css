@@ -1,0 +1,58 @@
+.main-div{
+    background-image: url("../../img/car.png") !important;
+    height: 90vh;
+    display: block;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.main-div .active{
+    display: block;
+}
+
+.title-sale{
+    text-align: center;
+}
+
+.title-sale h2{
+    font-family: Montserrat, sans-serif;
+    font-weight: bold;
+    font-size: 40px;
+    opacity: 1;
+    transform: translate(0);
+    color: #fff;
+    padding-top: 20vh;
+    text-align: center;
+}
+
+.title-sale h1{
+    font-size: 20px !important;
+    color: #fff;
+    font-family: Montserrat, sans-serif;
+}
+.sell-car{
+    max-width: 100%;
+}
+
+.icon-logo{
+    height: 50px;
+    font-size: 2px;
+    font-size: 38px;
+    top: 6vh;
+    left: 10vh;
+    color: aliceblue !important;
+    }
+
+    .icon-logo{
+    height: 50px;
+    font-size: 2px;
+    font-size: 38px;
+    top: 6vh;
+    left: 10vh;
+    color: aliceblue !important;
+}
+
+.icon-logo a{
+    text-decoration: none;
+}

@@ -1,0 +1,176 @@
+
+.block-service{
+    text-align: center !important;
+}
+.block-item{
+   text-align: center;
+    width: 100px;
+    height: 400px;
+    position: relative;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    background-position: center;
+
+}
+.b_01-img{
+    background-size: cover !important;
+    background-image: url('../../img/h1.jpg') !important; 
+}
+.b_02-img{
+    background-image: url('../../img/h2.png') !important;
+    background-size: cover !important; 
+}
+.b_03-img{
+    background-image: url('../../img/h3.jpg') !important;
+    background-size: cover !important; 
+}
+.b_04-img{
+    background-image: url('../../img/h4.jpg') !important; 
+    background-size: cover !important;
+}
+.block-service .block-service{
+    width: 80%;
+}
+.blocks{
+    background-color: rgb(0, 0, 0);
+    overflow: hidden;
+}
+.block-item{
+    position: relative;
+    max-width: 100%;
+}
+.item-box{
+
+text-align: center;
+    padding-top: 30px;
+    position: absolute;
+    top: 16vh;
+    left: 8%; 
+    width: 84%;
+    border-radius: 18px;
+   height: 40vh;
+   background: rgba(0,0,0,0.2); 
+  backdrop-filter: blur(5px);
+
+
+}
+
+@media screen and (max-width: 450px) {
+    .item-box{
+        height: 30vh;
+    } 
+    
+}
+
+.item-box h2{
+  
+        
+        color: aliceblue;
+        color: white;
+        font-weight: bold;
+     
+}
+.item-box p{
+    color: #fff!important;
+    font-size: 20px;
+    
+}
+.view-block{
+    text-align: center;
+
+}
+.view-block button{
+
+    background: rgba(0,0,0,0);
+    border: 3px solid #fff;
+    border-radius: 30px;
+    text-transform: uppercase;
+    white-space: nowrap;
+
+    cursor: pointer;
+    border-radius: 50px;
+    border: 2px solid #ffffff;
+    background-color: transparent;
+    height: 50px;
+    width: 100%;
+    max-width: 300px;
+    color: #ffffff;;
+    font-size: 1.5em;
+   
+}
+.view-block button:hover{
+    background-color: red;
+    color: #ffffff;
+}
+.img-box{
+    text-align: center;
+}
+
+
+
+/* Finance block */
+.finace-block{
+    height: 90vh;
+    display: block;
+ background-position: center;
+ background-repeat: no-repeat;
+ background-size: cover;
+ background-color: rgb(0, 0, 0);
+width: 100%;
+overflow: hidden;
+
+
+
+
+}
+.credit{
+    text-align: right;
+    color: #ffffff;
+}
+.inner-block{
+    padding-top: 20vh;
+}
+.f-img{
+    text-align: left;
+   
+}
+.f-img img{
+    width: 80%;
+}
+.h-img{
+    text-align: right;
+   
+}
+.h-img img{
+    width: 80%;
+}
+
+.box-bottom{
+    text-align: left;
+    padding-top: 30px;
+    position: absolute;
+    top: 16vh;
+    left: 8%; 
+    width: 84%;
+    
+   height: 8vh;
+ 
+  backdrop-filter: blur(5px);
+
+}
+.rectangle {
+    padding: 10px;
+    margin-bottom: 10px;
+    background: #0b0e13; 
+  }
+  
+.sentence{
+    color: white;
+    text-align: left;
+}
+  
+.box-m{
+    margin-top: 10vh;
+}
+

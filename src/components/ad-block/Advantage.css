@@ -1,0 +1,26 @@
+.lt-sense{
+    text-align: left;
+}
+.advance-a{
+    color: red;
+}
+.advance-b{
+    color: white;
+}
+
+
+@media screen and (max-width: 450px) {
+.inner-s{
+    padding-top: 3vh !important;
+ 
+}
+.inner-block{
+       padding-top: 6vh; 
+}
+.first-s{
+    padding-top: 6vh !important; 
+}
+}
+
+
+

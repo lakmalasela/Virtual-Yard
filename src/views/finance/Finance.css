@@ -1,0 +1,44 @@
+.apply{
+    background-color: #0d0e12 !important ;
+}
+
+.finace{
+    text-align: center;
+    color: white;
+    background-repeat: repeat-x;
+    padding-left: 10px;
+    
+}
+.finance-a{
+    padding-top: 40px;
+}
+.finance-b{
+    text-align: center;
+}
+.finance-c{
+    padding-bottom: 40px;
+}
+@media screen and (max-width: 450px) {
+    .h-img{
+        text-align: center;
+    }
+    .f-img{
+        text-align: center;
+        padding-top: 4vh;
+    }
+    .finace-block{
+        height: 75vh;
+    }
+    .finance-contact{
+        height: 22vh;
+    }
+    .faq{
+      padding-top: 2vh;
+      padding-bottom: 2vh;
+    }
+    .sentence-a{
+        padding-left: 12px;
+        padding-top:10px !important;
+    }
+        
+    }

@@ -1,0 +1,23 @@
+.logo{
+    width:350px;
+}
+.nav-route{
+    text-decoration: none;
+    color: #212529;
+    font-weight: 500;
+}
+.ul-account{
+    text-align: right;
+
+}
+.li-nav{
+    text-align: center;
+}
+
+@media screen and (max-width: 450px) {
+
+.myaccount a{
+    text-align: center;
+}
+}
+
